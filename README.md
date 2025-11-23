@@ -30,6 +30,6 @@ Se vitórias for maior ou igual a 101 = Imortal
 Ao final deve se exibir uma mensagem:
 "O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"
 
-### Execução
+## Execução
 - Para se executar o código deve-se ter instalado o NodeJS (ou usa-lo em uma IDE online)
 - No terminal, localizando a pastar Calculadora-de-partidas-Rankeadas onde esta o arquivo script.js digitar o comando "node scritp.js"
